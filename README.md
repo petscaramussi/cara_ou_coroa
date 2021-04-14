@@ -83,4 +83,4 @@ var rng = new Random();
 ### Prints
 
 <img src="https://github.com/petscaramussi/cara_ou_coroa/blob/main/imagens/home.jpg" width="15%" hight="15%">
-<img src="https://github.com/petscaramussi/cara_ou_coroa/blob/main/imagens/jogo.jpg" widht="15%" height="15%">
+<img src="https://github.com/petscaramussi/cara_ou_coroa/blob/main/imagens/jogo.jpg" widtd="15%" height="15%">
