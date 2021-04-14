@@ -79,3 +79,8 @@ importe a biblioteca de recursos matematicos, depois é só chamar o método Ram
 import 'dart:math';
 var rng = new Random();
 ```
+
+### Prints
+
+<img src="https://github.com/petscaramussi/cara_ou_coroa/blob/main/imagens/logo.png" wight: 30%; height: 30%/>
+<img src="https://github.com/petscaramussi/cara_ou_coroa/blob/main/imagens/jogo.png" wight: 30%; height: 30%/>
