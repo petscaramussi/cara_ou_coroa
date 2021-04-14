@@ -82,5 +82,5 @@ var rng = new Random();
 
 ### Prints
 
-<img src="https://github.com/petscaramussi/cara_ou_coroa/blob/main/imagens/logo.jpg" widht="30%" height="30%"/>
+<img src="https://github.com/petscaramussi/AtmConsultoria/blob/main/imagens/logo.jpg" width="30%" hight="30%">
 <img src="https://github.com/petscaramussi/cara_ou_coroa/blob/main/imagens/jogo.jpg" widht="30%" height="30%"/>
