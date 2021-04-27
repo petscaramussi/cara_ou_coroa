@@ -82,8 +82,8 @@ var rng = new Random();
 
 ### Prints 📸📽
 <p align="center">
-  <img src="https://github.com/petscaramussi/cara_ou_coroa/blob/main/imagens/home.jpg" width="25%" hight="25%">
-  <img src="https://github.com/petscaramussi/cara_ou_coroa/blob/main/imagens/jogo.jpg" width="25%" height="25%">
+  <img src="https://github.com/petscaramussi/cara_ou_coroa/blob/main/imagens/Phone%20Screenshot%201.jpg">
+  <img src="https://github.com/petscaramussi/cara_ou_coroa/blob/main/imagens/Phone%20Screenshot%202.jpg">
 </p>
 
 
